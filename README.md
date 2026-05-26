@@ -325,3 +325,52 @@ Help contribute to all parts of Iteration 3, Charlie, Next meeting
 
 # Risk Register #
 ![Risk-Register](Screenshots/risk-register-screenshot.png)
+
+# Group meeting report Week 12
+Sponsor: John Jamieson	Name of Group: e.g. Group 1
+Group Lead: Joshua 
+Note taker: Joshua
+Attendees: Cameron, Charlie
+Agenda items:	Project Progress
+
+
+## Agenda Item 1:	Project Progress	
+**Presenter**: Charlie 
+
+**Discussion**: Everyone is continuing to work through their designated tasks.
+
+**Conclusions**: The group is continuing to work through and contribute towards Iteration 3.
+
+**Action Items, Person Responsible, Deadline:**      
+                         
+Help contribute to all parts of Iteration 3, Joshua, Next meeting  
+
+Help contribute to all parts of Iteration 3, Cameron, Next meeting   
+
+Help contribute to all parts of Iteration 3, Charlie, Next meeting  
+
+
+**Date of next meeting**: 26/05/2026
+
+# Group meeting report Week 13
+Sponsor: John Jamieson	Name of Group: e.g. Group 1
+Group Lead: Joshua 
+Note taker: Joshua
+Attendees: Cameron, Charlie
+Agenda items:	Project Progress
+
+
+## Agenda Item 1:	Project Progress	
+**Presenter**: Charlie 
+
+**Discussion**: Charlie has finished the risk register, Josh has finished creating the website and updating the Gantt chart, Cameron has finished organizing the README and repository. We have all pushed the relevant files to GitHub then merged aswell as contribute our lines of testing for the UAT results.
+
+**Conclusions**: The group has completed the main components for Iteration 3 and is ready to move forward.
+
+**Action Items, Person Responsible, Deadline:**      
+                         
+Write a 150 word paragraph, Joshua, Next meeting  
+
+Write a 150 word paragraph, Cameron, Next meeting   
+
+Write a 150 word paragraph, Charlie, Next meeting 
