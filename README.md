@@ -26,8 +26,6 @@ Create Stakeholder, Charlie, Next meeting
 
 **Date of next meeting**: 17/02/2026
 
-# Stakeholder register #
-![stakeholder-register](Screenshots/stakeholder-register-screenshot.png)
 
 # Group meeting report Week 2
 Sponsor:	John Jamieson	Name of Group:	e.g. Group 1
@@ -54,15 +52,6 @@ Create a Persona, Charlie, Next meeting
 
 
 **Date of next meeting**: 24/02/2026
-
-# Persona 1 #
-![Persona-1](Screenshots/camerons-persona-screenshot.png)
-
-# Persona 2 #
-![Persona-2](Screenshots/charlies-persona-screenshot.png)
-
-# Persona 3 #
-![Persona-3](Screenshots/joshs-persona-screenshot.png)
 
 
 # Group meeting report Week 3
@@ -212,9 +201,6 @@ Continue working on Gantt Chart, Cameron, Next meeting
 **Date of next meeting**: 22/04/2026
 
 
-# Gantt chart #
-![Gantt Chart](Screenshots/Gantt-chart.png)
-
 
 # Group meeting report Week 8
 Sponsor: John Jamieson	Name of Group: e.g. Group 1
@@ -242,8 +228,6 @@ Write a 150 word paragraph, Charlie, Next meeting
 
 **Date of next meeting**: 29/04/2026
 
-# Resource table #
-![Resource-table](Screenshots/resource-table-screenshot.png)
 
 # Group meeting report Week 9
 Sponsor: John Jamieson	Name of Group: e.g. Group 1
@@ -323,8 +307,6 @@ Help contribute to all parts of Iteration 3, Charlie, Next meeting
 
 **Date of next meeting**: 20/05/2026
 
-# Risk Register #
-![Risk-Register](Screenshots/risk-register-screenshot.png)
 
 # Group meeting report Week 12
 Sponsor: John Jamieson	Name of Group: e.g. Group 1
