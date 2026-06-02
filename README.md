@@ -138,6 +138,8 @@ We also need to create a Kanban board to track our progress, organise tasks, and
 
 **Date of next meeting**: 25/03/2026
 
+# Gantt Chart #
+![Gantt-Chart](Gantt_screenshot.png)
 
 
 # Group meeting report Week 6
